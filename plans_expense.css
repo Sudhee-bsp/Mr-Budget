@@ -1,0 +1,753 @@
+@media (min-width: 320px) {
+  .p1 {
+    text-align: left;
+  }
+  .p2 {
+    margin-top: -7%;
+    text-align-last: right;
+  }
+  .p3 {
+    margin-top: -6%;
+    text-align-last: right;
+  }
+  .r {
+    margin-top: 1%;
+  }
+  .sp2 {
+    text-align-last: right;
+    margin-top: -15%;
+  }
+  .pan2 {
+    position: absolute;
+    border-width: 2px;
+    margin-top: 55%;
+    margin-left: 6%;
+    width: 90%;
+    margin-bottom: 5%;
+  }
+  .ph1 {
+    text-align: center;
+    font-size: 150%;
+  }
+  .pan1 {
+    margin-top: 20%;
+    border-width: 2px;
+    margin-left: 5%;
+    width: 90%;
+  }
+  .b1 {
+    border-width: 2px;
+    position: absolute;
+    margin-top: 130%;
+    margin-left: 15%;
+    width: 70%;
+  }
+
+  .exp {
+    border-width: 2px;
+    position: absolute;
+    margin-top: 17%;
+    margin-bottom: 5%;
+    margin-left: 15%;
+    width: 70%;
+  }
+
+  .c9 {
+    background: none !important;
+    border: none;
+    color: #068;
+    cursor: pointer;
+    margin-top: 0.1%;
+    text-align: center;
+  }
+  .c9:hover {
+    text-decoration: underline;
+  }
+
+  .btn-outline-primary {
+    color: darkcyan;
+    border-color: darkcyan;
+    background-color: white;
+  }
+  .btn-outline-primary:hover {
+    background-color: darkcyan;
+    color: white;
+  }
+
+  .cnt {
+    width: 300px; /* width of container */
+    overflow: hidden;
+    margin-top: 210%;
+    margin-left: 5%;
+    margin-bottom: 10%;
+  }
+  .pn1 {
+    border-width: 2px;
+    margin-bottom: 10%;
+    margin-top: 10%;
+    margin-left: 5%;
+    width: 90%;
+  }
+
+  footer {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    padding: 0.5rem;
+    background-color: black;
+    color: white;
+    text-align: center;
+  }
+}
+@media (min-width: 360px) {
+  .p1 {
+    text-align: left;
+  }
+  .p2 {
+    margin-top: -7%;
+    text-align-last: right;
+  }
+  .p3 {
+    margin-top: -6%;
+    text-align-last: right;
+  }
+  .r {
+    margin-top: 1%;
+  }
+  .sp2 {
+    text-align-last: right;
+    margin-top: -15%;
+  }
+  .pan2 {
+    position: absolute;
+    border-width: 2px;
+    margin-top: 55%;
+    margin-left: 6%;
+    width: 90%;
+    margin-bottom: 5%;
+  }
+  .pan1 {
+    margin-top: 20%;
+    border-width: 2px;
+    margin-left: 5%;
+    width: 90%;
+  }
+  .b1 {
+    border-width: 2px;
+    position: fixed;
+    margin-top: 150%;
+    margin-left: 15%;
+    width: 70%;
+  }
+  .exp {
+    border-width: 2px;
+    position: absolute;
+    margin-top: 15%;
+    margin-left: 15%;
+    width: 70%;
+  }
+  .c9 {
+    background: none !important;
+    border: none;
+    color: #068;
+    cursor: pointer;
+    margin-top: 0.1%;
+    text-align: center;
+  }
+  .cnt {
+    width: 300px; /* width of container */
+    overflow: hidden;
+    margin-top: 190%;
+    margin-left: 5%;
+    margin-bottom: 10%;
+  }
+  .pn1 {
+    border-width: 2px;
+    margin-bottom: 10%;
+    margin-top: 0%;
+    margin-left: 5%;
+    width: 90%;
+  }
+}
+@media (min-width: 420px) {
+  .p1 {
+    text-align: left;
+  }
+  .p2 {
+    margin-top: -6%;
+    text-align-last: right;
+  }
+  .p3 {
+    margin-top: -6%;
+    text-align-last: right;
+  }
+  .r {
+    margin-top: 1%;
+  }
+  .sp2 {
+    text-align-last: right;
+    margin-top: -15%;
+  }
+  .pan2 {
+    position: absolute;
+    border-width: 2px;
+    margin-top: 55%;
+    margin-left: 6%;
+    width: 90%;
+    margin-bottom: 5%;
+  }
+  .pan1 {
+    margin-top: 20%;
+    border-width: 2px;
+    margin-left: 5%;
+    width: 90%;
+  }
+  .b1 {
+    border-width: 2px;
+    position: absolute;
+    margin-top: 95%;
+    margin-left: 15%;
+    width: 70%;
+  }
+  .exp {
+    border-width: 2px;
+    position: absolute;
+    margin-top: 15%;
+    margin-left: 15%;
+    width: 70%;
+  }
+  .c9 {
+    background: none !important;
+    border: none;
+    color: #068;
+    cursor: pointer;
+    margin-top: 0.1%;
+    text-align: center;
+  }
+  .cnt {
+    width: 400px; /* width of container */
+    overflow: hidden;
+    margin-top: 180%;
+    margin-left: 5%;
+    margin-bottom: 10%;
+  }
+  .pn1 {
+    border-width: 2px;
+    margin-bottom: 10%;
+    margin-top: 0%;
+    margin-left: 0%;
+    width: 100%;
+  }
+}
+@media (min-width: 510px) {
+  .p1 {
+    text-align: left;
+  }
+  .p2 {
+    margin-top: -7%;
+    text-align-last: right;
+  }
+  .p3 {
+    margin-top: -6%;
+    text-align-last: right;
+  }
+  .r {
+    margin-top: 1%;
+  }
+  .sp2 {
+    text-align-last: right;
+    margin-top: -15%;
+  }
+  .pan2 {
+    position: absolute;
+    border-width: 2px;
+    margin-top: 55%;
+    margin-left: 6%;
+    width: 90%;
+    margin-bottom: 5%;
+  }
+  .pan1 {
+    margin-top: 20%;
+    border-width: 2px;
+    margin-left: 5%;
+    width: 90%;
+  }
+  .b1 {
+    border-width: 2px;
+    position: absolute;
+    margin-top: 75%;
+    margin-left: 15%;
+    width: 70%;
+  }
+  .exp {
+    border-width: 2px;
+    position: absolute;
+    margin-top: 15%;
+    margin-left: 15%;
+    width: 70%;
+  }
+  .c9 {
+    background: none !important;
+    border: none;
+    color: #068;
+    cursor: pointer;
+    margin-top: 0.1%;
+    text-align: center;
+  }
+  .cnt {
+    width: 450px; /* width of container */
+    overflow: hidden;
+    margin-top: 150%;
+    margin-left: 5%;
+    margin-bottom: 10%;
+  }
+  .pn1 {
+    border-width: 2px;
+    margin-bottom: 10%;
+    margin-top: 0%;
+    margin-left: 5%;
+    width: 90%;
+  }
+}
+@media (min-width: 620px) {
+  .p1 {
+    text-align: left;
+  }
+  .p2 {
+    margin-top: -7%;
+    text-align-last: right;
+  }
+  .p3 {
+    margin-top: -6%;
+    text-align-last: right;
+  }
+  .r {
+    margin-top: 1%;
+  }
+  .sp2 {
+    text-align-last: right;
+    margin-top: -15%;
+  }
+  .pan2 {
+    position: absolute;
+    border-width: 2px;
+    margin-top: 55%;
+    margin-left: 6%;
+    width: 90%;
+    margin-bottom: 5%;
+  }
+  .pan1 {
+    margin-top: 20%;
+    border-width: 2px;
+    margin-left: 5%;
+    width: 90%;
+  }
+  .b1 {
+    border-width: 2px;
+    position: absolute;
+    margin-top: 60%;
+    margin-left: 15%;
+    width: 70%;
+  }
+  .exp {
+    border-width: 2px;
+    position: absolute;
+    margin-top: 15%;
+    margin-left: 15%;
+    width: 70%;
+  }
+  .c9 {
+    background: none !important;
+    border: none;
+    color: #068;
+    cursor: pointer;
+    margin-top: 0.1%;
+    text-align: center;
+  }
+  .cnt {
+    width: 450px; /* width of container */
+    overflow: hidden;
+    margin-top: 140%;
+    margin-left: 5%;
+    margin-bottom: 10%;
+  }
+  .pn1 {
+    border-width: 2px;
+    margin-bottom: 10%;
+    margin-top: 0%;
+    margin-left: 5%;
+    width: 90%;
+  }
+}
+@media (min-width: 720px) {
+  .p1 {
+    text-align: left;
+  }
+  .p2 {
+    margin-top: -7%;
+    text-align-last: right;
+  }
+  .p3 {
+    margin-top: -6%;
+    text-align-last: right;
+  }
+  .r {
+    margin-top: 1%;
+  }
+  .sp2 {
+    text-align-last: right;
+    margin-top: -15%;
+  }
+  .pan2 {
+    position: absolute;
+    border-width: 2px;
+    margin-top: 55%;
+    margin-left: 6%;
+    width: 90%;
+    margin-bottom: 5%;
+  }
+  .pan1 {
+    margin-top: 20%;
+    border-width: 2px;
+    margin-left: 5%;
+    width: 90%;
+  }
+  .b1 {
+    border-width: 2px;
+    position: absolute;
+    margin-top: 48%;
+    margin-left: 15%;
+    width: 70%;
+  }
+  .exp {
+    border-width: 2px;
+    position: absolute;
+    margin-top: 15%;
+    margin-left: 15%;
+    width: 70%;
+  }
+  .c9 {
+    background: none !important;
+    border: none;
+    color: #068;
+    cursor: pointer;
+    margin-top: 0.1%;
+    text-align: center;
+  }
+  .cnt {
+    width: 550px; /* width of container */
+    overflow: hidden;
+    margin-top: 125;
+    margin-left: 10%;
+    margin-bottom: 10%;
+  }
+  .pn1 {
+    border-width: 2px;
+    margin-bottom: 10%;
+    margin-top: 0%;
+    margin-left: 5%;
+    width: 90%;
+  }
+}
+@media (min-width: 790px) {
+  .p1 {
+    text-align: left;
+  }
+  .p2 {
+    margin-top: -7%;
+    text-align-last: right;
+  }
+  .p3 {
+    margin-top: -6%;
+    text-align-last: right;
+  }
+  .r {
+    margin-top: 1%;
+  }
+  .sp2 {
+    text-align-last: right;
+    margin-top: -15%;
+  }
+  .pan2 {
+    position: absolute;
+    border-width: 2px;
+    margin-top: 0%;
+    margin-left: 56%;
+    width: 40%;
+    margin-bottom: 5%;
+  }
+  .ph1 {
+    text-align: center;
+    font-size: 150%;
+  }
+  .pan1 {
+    margin-top: 7%;
+    border-width: 2px;
+    margin-left: 5%;
+    width: 50%;
+  }
+  .b1 {
+    border-width: 2px;
+    position: absolute;
+    width: 15%;
+    margin-top: 14%;
+    margin-left: 71%;
+  }
+
+  .exp {
+    border-width: 2px;
+    position: absolute;
+    margin-top: -15%;
+    margin-left: 66%;
+    width: 25%;
+  }
+
+  .c9 {
+    background: none !important;
+    border: none;
+    color: #068;
+    cursor: pointer;
+    margin-top: 0.1%;
+    text-align: center;
+  }
+  .c9:hover {
+    text-decoration: underline;
+  }
+
+  .btn-outline-primary {
+    color: darkcyan;
+    border-color: darkcyan;
+    background-color: white;
+  }
+  .btn-outline-primary:hover {
+    background-color: darkcyan;
+    color: white;
+  }
+
+  .cnt {
+    width: 650px; /* width of container */
+    overflow: hidden;
+    margin-top: 0%;
+    margin-left: 0%;
+    margin-bottom: 10%;
+  }
+  .pn1 {
+    border-width: 2px;
+    margin-bottom: 10%;
+    margin-top: 7%;
+    margin-left: 15%;
+    width: 50%;
+  }
+
+  footer {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    padding: 0.5rem;
+    background-color: black;
+    color: white;
+    text-align: center;
+  }
+}
+@media (min-width: 790px) {
+  .p1 {
+    text-align: left;
+  }
+  .p2 {
+    margin-top: -7%;
+    text-align-last: right;
+  }
+  .p3 {
+    margin-top: -6%;
+    text-align-last: right;
+  }
+  .r {
+    margin-top: 1%;
+  }
+  .sp2 {
+    text-align-last: right;
+    margin-top: -15%;
+  }
+  .pan2 {
+    position: absolute;
+    border-width: 2px;
+    margin-top: 0%;
+    margin-left: 56%;
+    width: 40%;
+    margin-bottom: 5%;
+  }
+  .ph1 {
+    text-align: center;
+    font-size: 150%;
+  }
+  .pan1 {
+    margin-top: 7%;
+    border-width: 2px;
+    margin-left: 5%;
+    width: 50%;
+  }
+  .b1 {
+    border-width: 2px;
+    position: absolute;
+    width: 15%;
+    margin-top: 0%;
+    margin-left: 71%;
+  }
+
+  .exp {
+    border-width: 2px;
+    position: absolute;
+    margin-top: -15%;
+    margin-left: 66%;
+    width: 25%;
+  }
+
+  .c9 {
+    background: none !important;
+    border: none;
+    color: #068;
+    cursor: pointer;
+    margin-top: 0.1%;
+    text-align: center;
+  }
+  .c9:hover {
+    text-decoration: underline;
+  }
+
+  .btn-outline-primary {
+    color: darkcyan;
+    border-color: darkcyan;
+    background-color: white;
+  }
+  .btn-outline-primary:hover {
+    background-color: darkcyan;
+    color: white;
+  }
+
+  .cnt {
+    width: 650px; /* width of container */
+    overflow: hidden;
+    margin-top: 0%;
+    margin-left: 0%;
+    margin-bottom: 10%;
+  }
+  .pn1 {
+    border-width: 2px;
+    margin-bottom: 10%;
+    margin-top: 7%;
+    margin-left: 15%;
+    width: 50%;
+  }
+
+  footer {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    padding: 0.5rem;
+    background-color: black;
+    color: white;
+    text-align: center;
+  }
+}
+
+@media (min-width: 1200px) {
+  .p1 {
+    text-align: left;
+  }
+  .p2 {
+    margin-top: -8%;
+    text-align-last: right;
+  }
+  .p3 {
+    margin-top: -6%;
+    text-align-last: right;
+  }
+  .r {
+    margin-top: 1%;
+  }
+  .sp2 {
+    text-align-last: right;
+    margin-top: -15%;
+  }
+  .pan2 {
+    position: absolute;
+    border-width: 2px;
+    margin-top: 0%;
+    margin-left: 58%;
+    width: 30%;
+    margin-bottom: 5%;
+  }
+  .ph1 {
+    text-align: center;
+    font-size: 150%;
+  }
+  .pan1 {
+    margin-top: 7%;
+    border-width: 2px;
+    margin-left: 5%;
+    width: 50%;
+  }
+ 
+
+  .exp {
+    border-width: 2px;
+    position: absolute;
+    margin-top: -15%;
+    margin-left: 66%;
+    width: 25%;
+  }
+ .p{
+    font-weight: bolder;
+    margin-top:-4px;
+  }
+  .c9 {
+    background: none !important;
+    border: none;
+    color: #068;
+    cursor: pointer;
+    margin-top: 0.1%;
+    text-align: center;
+  }
+  .c9:hover {
+    text-decoration: underline;
+  }
+
+  .btn-outline-primary {
+    color: darkcyan;
+    border-color: darkcyan;
+    background-color: white;
+  }
+  .btn-outline-primary:hover {
+    background-color: darkcyan;
+    color: white;
+  }
+
+  .cnt {
+    width: 650px; /* width of container */
+    overflow: hidden;
+    margin-top: 0%;
+    margin-left: 10%;
+    margin-bottom: 10%;
+  }
+  .pn1 {
+    border-width: 2px;
+    margin-bottom: 10%;
+    margin-top: 7%;
+    margin-left: 15%;
+    width: 104.5%;
+  }
+
+  footer {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    padding: 0.5rem;
+    background-color: black;
+    color: white;
+    text-align: center;
+  }
+}
